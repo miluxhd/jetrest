@@ -9,7 +9,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@Path("/search")
+@Path("/rest")
 public class Resource extends  ResourceConfig{
 
     @POST
